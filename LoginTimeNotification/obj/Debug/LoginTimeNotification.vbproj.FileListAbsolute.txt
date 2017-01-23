@@ -1,0 +1,10 @@
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\bin\Debug\LoginTimeNotification.exe.config
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\bin\Debug\LoginTimeNotification.exe
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\bin\Debug\LoginTimeNotification.pdb
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\bin\Debug\LoginTimeNotification.xml
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\obj\Debug\LoginTimeNotification.vbprojResolveAssemblyReference.cache
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\obj\Debug\LoginTimeNotification.Resources.resources
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\obj\Debug\LoginTimeNotification.vbproj.GenerateResource.Cache
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\obj\Debug\LoginTimeNotification.exe
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\obj\Debug\LoginTimeNotification.xml
+C:\Users\Yusuke\Documents\Visual Studio 2017\Repos\LoginTimeNotification\LoginTimeNotification\obj\Debug\LoginTimeNotification.pdb
