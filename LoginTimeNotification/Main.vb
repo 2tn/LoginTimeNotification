@@ -18,10 +18,10 @@
             log.Close()
         End If
 
-        If LogonTimeList.Count = 0 Or PowerOnTimeList.Count = 0 Then Return
+        If LogonTimeList.Count < 2 Or PowerOnTimeList.Count < 2 Then Return
 
-        Dim LogonTIme As DateTime = LogonTimeList(LogonTimeList.Count - 1).TimeGenerated.ToString
-        Dim PowerOnTIme As DateTime = PowerOnTimeList(PowerOnTimeList.Count - 1).TimeGenerated.ToString
+        Dim LogonTIme As DateTime = LogonTimeList(LogonTimeList.Count - 2).TimeGenerated.ToString
+        Dim PowerOnTIme As DateTime = PowerOnTimeList(PowerOnTimeList.Count - 2).TimeGenerated.ToString
 
         MessageBox.Show("システム起動時間" & vbTab & PowerOnTIme.ToString & vbCrLf & "ログオン時間" & vbTab & LogonTIme.ToString, "前回のWindowsログオン情報", MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
     End Sub
